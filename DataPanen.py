@@ -93,7 +93,8 @@ for k , d in data_panen.items():
         print("Dalam kondisi baik")
 
 
-print("menambah branch baru")
+print("Perubahan di branch Baru")
+
     
 
 
