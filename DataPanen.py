@@ -91,6 +91,9 @@ for k , d in data_panen.items():
         print("Memerlukan perhatian khusus")
     else:
         print("Dalam kondisi baik")
+
+
+print("menambah branch baru")
     
 
 
