@@ -93,12 +93,7 @@ for k , d in data_panen.items():
         print("Dalam kondisi baik")
 
 
-<<<<<<< HEAD
 print("Coba Konflik")
-=======
-print("Perubahan di branch Baru")
-
->>>>>>> Baru
     
 
 
