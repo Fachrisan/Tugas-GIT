@@ -41,7 +41,7 @@ data_panen = {
     }
 }
 
-print("")
+print()
 for k, d in data_panen.items():
     print(f"{d['nama_lokasi']}: {d['hasil_panen']}")
 
